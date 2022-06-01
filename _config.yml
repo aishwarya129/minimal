@@ -1,1 +1,18 @@
+title: <p align="center"> Aishwarya Das </p>
+logo: /assets/img/logo2.png
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/aishwarya-das/">LinkedIn</a> |
+  <a href="https://github.com/sajankedia">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Machine learning & NLP related problems.
+  Working in Boeing India domain for past 3.5 years.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
